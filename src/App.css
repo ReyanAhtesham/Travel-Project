@@ -1,0 +1,44 @@
+
+.search-form{
+  padding:50px
+}
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+  height:250px;
+}
+.stuff{
+  position: absolute;
+  bottom:25px;
+  left:700px;
+  height:300px;
+  width:400px;
+ } 
+ .icoo{
+   position: relative;
+   top:-50px;
+ }
+ .icnt{
+  position: relative;
+  top:-93px;
+}
+.icount{
+  position: relative;
+  top:-100px;
+}
+ .gaul{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width:200px;
+  height: 200px;
+  right:20px;
+ }
+ input[type="text"]
+ {
+     font-size:300px;
+ }
+
+ 
